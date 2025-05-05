@@ -14,6 +14,14 @@
 Р
 азработано для фарм компании в 2020 году на основе ([методички](https://www.delfy.biz/books)) Алексея Реброва 
 
-**Описание грейдов** ([файл]())
+**Описание грейдов** ([файл](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/description.md))
 
-**Калькулятор** ([notebook]())
+**Калькулятор** ([notebook](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/Grading.py))
+
+Ввод данных 
+![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/Input.PNG)
+![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/console%26input.PNG)
+
+Ввод данных в excel
+![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/output_1.PNG)
+![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/output_2.PNG)
