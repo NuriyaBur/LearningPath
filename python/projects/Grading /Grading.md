@@ -22,6 +22,6 @@
 ![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/Input.PNG)
 ![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/console%26input.PNG)
 
-Ввод данных в excel
+Вывод данных в excel
 ![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/output_1.PNG)
 ![cover](https://github.com/NuriyaBur/LearningPath/blob/main/python/projects/Grading%20/img/output_2.PNG)
